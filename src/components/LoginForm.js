@@ -69,7 +69,7 @@ function LoginForm({ existingUser}){
             <div className="button-box">
                 <button className="primary-button">Login</button>
                 <button type="button" onClick={handleSendResetPasswordEmail} className="primary-button">Reset Password</button>
-                <button type="button" onClick={handleLoginWithGoogle} className="primary-button">Login With Google</button>
+                <button type="button" onClick={handleLoginWithGoogle} className="primary-button">Login With Googlec</button>
             </div>
         </form>)
 
